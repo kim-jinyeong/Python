@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57b0f10b-3d2c-45f8-91bc-8df8ff969218" name="Changes" comment="" />
+    <list default="true" id="57b0f10b-3d2c-45f8-91bc-8df8ff969218" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dacon/jeju_transportation/data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dacon/fifa/regression_predict.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dacon/fifa/regression_predict.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +21,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -23,30 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dxsystem/OneDrive/바탕 화면/python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mariadb&quot;
-    ]
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dxsystem\OneDrive\바탕 화면\python\iris" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rlawl\Desktop\Python\dacon\jeju_transportation\data" />
+      <recent name="C:\Users\rlawl\Desktop\Python\dacon\fifa\data" />
       <recent name="C:\Users\dxsystem\OneDrive\바탕 화면\python\ourbox" />
       <recent name="C:\Users\dxsystem\OneDrive\바탕 화면\python\practice\data" />
       <recent name="C:\Users\dxsystem\OneDrive\바탕 화면\python\ourbox\data" />
-      <recent name="C:\Users\dxsystem\OneDrive\바탕 화면\python\titanic\data" />
-      <recent name="C:\Users\dxsystem\OneDrive\바탕 화면\python\wine" />
     </key>
   </component>
   <component name="RunManager" selected="Python.data">
@@ -194,11 +201,33 @@
       <workItem from="1666670633971" duration="347000" />
       <workItem from="1666744489532" duration="60000" />
       <workItem from="1667175210695" duration="8000" />
+      <workItem from="1667228780284" duration="37000" />
+      <workItem from="1668251909900" duration="653000" />
+      <workItem from="1668252687715" duration="2889000" />
+      <workItem from="1668297031666" duration="5646000" />
+      <workItem from="1668303133916" duration="408000" />
+      <workItem from="1668436517185" duration="2065000" />
+      <workItem from="1668521939919" duration="5266000" />
+      <workItem from="1668609468914" duration="1739000" />
+      <workItem from="1668837203510" duration="1835000" />
+      <workItem from="1668935792651" duration="8176000" />
+      <workItem from="1669129737791" duration="2115000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
